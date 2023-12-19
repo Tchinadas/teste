@@ -254,5 +254,12 @@
     "token": "factory/inj164jk46xjwsn6x4rzu6sfuvtlzy2nza0nxfj0nz/MAX",
     "icon": "/img/max.jpg",
     "decimals": 6
+  },
+  {
+    "protocol": "MAX",
+    "symbol": "MAX",
+    "token": "factory/inj164jk46xjwdasdassn6x4rzu6sfuvtlzy2nza0nxfj0nz/MAX",
+    "icon": "/img/max.jpg",
+    "decimals": 6
   }
 ]
